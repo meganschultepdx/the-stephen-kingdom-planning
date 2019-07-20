@@ -8,7 +8,6 @@
 
 ## Setup/Installation Requirements
 * Directions to view mobile app via Appetize.io to be provided at a later date.
-* 
 
 ## Component Tree/Project Planning
 
