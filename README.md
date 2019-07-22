@@ -13,6 +13,7 @@
 * text reader function.
 * Add some animation features to UI.
 * Other cool styling 😎
+* Use Figma to mock up app styling
 * Some stretch goals might be easily moved up to MVP goals as I do more research and practice with building React Native app; tying to keep scope pretty simple to start. 
 
 ## Stretch Goals
