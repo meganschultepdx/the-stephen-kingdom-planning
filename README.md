@@ -15,7 +15,8 @@
 * Download the Expo Client app on your mobile device. Will work with either iOS or Android.
 * Open the app and scan the QR code in the command line. Expo will then bundle your project and load it on your device.
 * click on the project name if it deosn't automatically load.
-* Open project in your favorite text editor to make changes.
+* Open project in your favorite text editor to make changes. Any changes you make will automatically appear on your device as long as project is running. 
+* Check out (https://expo.io/) for help with any issues.
 
 
 ## Component Tree/Project Planning
