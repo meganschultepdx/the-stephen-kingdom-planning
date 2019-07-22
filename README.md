@@ -4,10 +4,19 @@
 
 ## Description
 
-  This mobile app will be a database for Stephen King related movies. It will provide users with information specific to how the movies relate to Stephen King, be it writing, directing, or just being based off his literature. It will also provide the user with information on where the movies can be viewed online. Because I will be learning how to build a React Native app for the first time and would also like to incorporate some accessibility functions into the app, the content structure will be kept somewhat simple for MVP.
+  This mobile app will be a database for information on Stephen King related movies and mini-series. It will provide users with information specific to how the works relate to Stephen King, be it writing, directing, or just being based off his literature. This information will be pulled from a Firebase database. As a stretch goal it will also provide the user with information on where the movies can be viewed online by use of the Utelly API. Because I will be learning how to build a React Native app for the first time and would also like to incorporate some accessibility functions into the app, the content structure will be kept somewhat simple for MVP.
 
 ## Setup/Installation Requirements
-* Directions to view mobile app via Appetize.io to be provided at a later date.
+* clone app from repo: coming soon
+* make sure you have latest version of Node.js installed.
+* run $ npm install expo-cli --global in command line.
+* cd into project on command line.
+* run $ expo start
+* Download the Expo Client app on your mobile device. Will work with either iOS or Android.
+* Open the app and scan the QR code in the command line. Expo will then bundle your project and load it on your device.
+* click on the project name if it deosn't automatically load.
+* Open project in your favorite text editor to make changes.
+
 
 ## Component Tree/Project Planning
 
@@ -30,6 +39,7 @@
   * Appetize.io
   * JSX
   * Material-for React Native
+  * Firebase
 
   ### License
 
