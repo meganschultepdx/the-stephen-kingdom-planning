@@ -23,7 +23,6 @@
 * Sort function for movies.
 * Search funtion for movies.
 * Add API call to Utelly so user can see where movie is able to be streamed.
-* Deployment to app store.
 
 
 ## Setup/Installation Requirements
