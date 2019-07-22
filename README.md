@@ -4,7 +4,7 @@
 
 ## Description
 
-  This mobile app will be a database for information on Stephen King related movies and mini-series. It will provide users with information specific to how the works relate to Stephen King, be it writing, directing, or just being based off his literature. This information will be pulled from a Firebase database. As a stretch goal it will also provide the user with information on where the movies can be viewed online by use of the Utelly API. Because I will be learning how to build a React Native app for the first time and would also like to incorporate some accessibility functions into the app, the content structure will be kept somewhat simple for MVP.
+  This mobile app will be a database for information on Stephen King related movies and mini-series. It will provide users with information specific to how the work is relate to Stephen King, be it writing, directing, or just being based off his literature. This information will be pulled from a Firebase database. As a stretch goal it will also provide the user with information on where the movies can be viewed online by use of the Utelly API. Because I will be learning how to build a React Native app for the first time and would also like to incorporate some accessibility functions into the app, the content structure will be kept somewhat simple for MVP.
 
 ## Setup/Installation Requirements
 * clone app from repo: coming soon
